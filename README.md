@@ -9,4 +9,4 @@ TODO list
 |n.v.t|Prototype/schets|"Klaar"|https://bit.ly/2yA6DUo|
 |n.v.t|functioneel ontwerp|"Klaar"|https://bit.ly/2yA6DUo|
 |n.v.t|backlog|-|..|
-|er|komt|meer|bij|
+|Online Versie|-|af|http://24753.hosts.ma-cloud.nl/ma/MyBand/public/index.php|
